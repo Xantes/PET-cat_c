@@ -10,7 +10,7 @@ If you want to rebuild executive file, you can use command "make rebuild"
 ```
 make rebuild
 ```
-Executive file will appear at the "src" directory
+Executive file will appear at the "src" directory with name "s21_cat"
 
 ```
 Usage:
