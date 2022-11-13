@@ -1,4 +1,4 @@
-# PET-cat_c
+# PET-cat
 The repository is PET-project, that implements standard "cat" function in C language
 
 ## Start the program
