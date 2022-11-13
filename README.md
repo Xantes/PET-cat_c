@@ -1,6 +1,18 @@
 # PET-cat_c
 The repository is PET-project, that implements standard "cat" function in C language
 
+## Start the program
+After cloning this repository, use "make" command to create executive file.
+```
+make
+```
+If you want to rebuild executive file, you can use command "make rebuild"
+```
+make rebuild
+```
+Exevutive file will appear at the "src" directory
+
+```
 Usage:
 
 s21_cat [-benst] [file ...] 
@@ -13,3 +25,4 @@ s21_cat [-benst] [file ...]
   -t                       equivalent to -vT\
   -T, --show-tabs          display TAB characters as ^I\
   -v, --show-nonprinting   use ^ and M- notation, except for LFD and TAB
+```
