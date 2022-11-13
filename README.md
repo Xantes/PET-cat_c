@@ -12,9 +12,9 @@ make rebuild
 ```
 Executive file will appear at the "src" directory with name "s21_cat"
 
-```
-Usage:
 
+## Usage:
+```
 s21_cat [-benst] [file ...] 
 
   -b, --number-nonblank    number nonempty output lines, overrides -n \
